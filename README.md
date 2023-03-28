@@ -7,6 +7,7 @@ This app was developed as base foundation for all my projects. I have always bee
 * XP - Extereme Programming
 * DSDM - Dynamic Systems Development Method
 * Scrum/Kanban Log (have to see which is better)
+* Integrate Continous Integration and maybe Continous Deployment (if not, definitely Continous Delivery)
 
 ## Key Features
 * Create an account
